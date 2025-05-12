@@ -1,2 +1,2 @@
-# new project
-this project is created from local system.
+# project simon game
+this is create from local system
